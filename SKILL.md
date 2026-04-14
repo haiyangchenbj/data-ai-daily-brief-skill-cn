@@ -1,8 +1,8 @@
----
+﻿---
 name: data-ai-daily-brief-cn
 version: "4.2"
 description: |
-  AI 驱动的行业情报日报生成器（中文版）。 AI-powered industry intelligence daily brief generator (Chinese Edition). This skill automatically searches,
+  AI-powered industry intelligence daily brief generator. This skill automatically searches,
   filters, writes, and delivers structured daily briefings for any industry.
   Default configuration covers Data+AI (data platforms, lakehouse, streaming, governance, etc.),
   but can be customized for FinTech, HealthTech, Cybersecurity, DevTools, or any domain.
